@@ -1,3 +1,5 @@
+git 1
+
 ##################### My forum posts
 
 https://community.hortonworks.com/questions/33140/hbase-master-fails-to-start.html
