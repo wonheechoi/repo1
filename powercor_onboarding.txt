@@ -1,0 +1,73 @@
+# Franky's iphone
+nyqc0bxmg4sxq
+
+
+powercor jira pass
+
+Corelliarcangelo1!
+# jira
+http://testing.mettleci.io/jira/
+wonhee.choi@ data // password
+
+# System
+CIS OV
+MTS
+IE
+
+# Oracle 12.2
+
+
+pr0cmnd /R @'WH_EXGENERIC01.par' OV='override.ov'
+
+pr0cmnd /R @'D:\IBM\Infosphere\Optim\SCRIPTDIR\WONHEE\WH_EXGENERIC01.par'
+
+D:\IBM\InfoSphere\Optim\rt\BIN
+
+pr0cmnd /R @'D:\IBM\Infosphere\Optim\SCRIPTDIR\WONHEE\WH_EXGENERIC01.par'
+
+
+pr0cmnd /R @'D:\WONHEE\WONHEE_EXGENERIC01.par'
+
+pr0cmnd /R @'D:\WONHEE\WONHEE_EXGENERIC01.par'
+
+pr0cmnd /R PST=SNOPTIMDIR TYPE=EXTRACT REQUEST=WONHEE.EXGENERIC01 OUTPUT='WONHEE_EXGENERIC01.log'
+
+pr0cmnd /R TYPE=EXTRACT REQUEST=WONHEE.EXGENERIC01 PST=SNOPTIMDIR OUTPUT='WONHEE_EXGENERIC01.log' STOP=F MONITOR+
+
+
+pr0cmnd /R TYPE=EXTRACT REQUEST=PCOR.EXT10 PST=OPTIMDIR OUTPUT=EXT10.log MONITOR+ 
+ok
+
+
+pr0cmnd /R TYPE=EXTRACT REQUEST=WH.EXGENERIC01 PST=OPTIMDIR OUTPUT=EXGENERIC01.log MONITOR+ 
+ok
+
+pr0cmnd /R @'D:\IBM\Infosphere\Optim\SCRIPTDIR\WONHEE\WH_EXGENERIC01.par'
+ok
+
+TYPE=EXTRACT
+REQUEST=WH.EXGENERIC01
+OUTPUT='D:\IBM\Infosphere\Optim\REPORTDIR\EXGENERIC01.log'
+PST=OPTIMDIR
+
+
+
+
+TYPE=EXTRACT
+REQUEST=PCOR.EXT10
+MONITOR-
+QUIET+
+OUTPUT=optimjenkins.log
+PST=OPTIMDIR
+OV=*
+ADNAME PCOR.ADT10
+XFFILE PCOR.EXT10.XF
+END
+
+
+
+
+XFFILE D:\IBM\InfoSphere\Optim\_Data\WONHEE_EXGENERIC01.xf
+
+
+D:\app\Administrator\product\11.2.0\client_2\bin;D:\IBM\InfoSphere\Optim\services\jdk\jre\bin\j9vm;D:\Oracle\instantclient_11_2;C:\ProgramData\Oracle\Java\javapath;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;C:\Program Files\Amazon\cfn-bootstrap\
